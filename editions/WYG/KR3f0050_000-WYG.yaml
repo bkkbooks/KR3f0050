@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0050/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部六
+  hash: sha256:e521b19b98c66f823ee87bbea51ca642449b8543c55a824c23637d49bb62d81e
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0050_WYG_000-1a, image: WYG0802/WYG0802-0091a.png}
+body:
+  text: 數學鑰天文算法類二算書之屬提要臣等謹案數學鑰六巻國朝杜知耕撰其書列古方田粟布裒分少廣商功均輸盈朒方程勾股九章取今線面體三部之法𨽻之載其圖解並摘其要語以為之注與方中通所撰數度衍用今法以合九章者體例相同而每章設例必標其凡於章首每問答有所旁通者必附其術於條下所引証之文必著其所出蒐輯尤詳梅文鼎勿菴歴算書記曰近代作者如李長茂算海詳説亦有發明然不能具九章惟方位伯數度衍於九章之外蒐羅甚富杜端伯數學鑰圖注九章頗中肯綮可為筭家程式其説固不誣矣世有二本其一為妄人竄亂殊失本真此本猶當日初刋今據以校正以復知耕之舊焉乾隆四十六年四月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:e6f777d1623ce6bf8ebd42b9bcfcf7261bcaf9113b1f6f2db9acbee6142f281a
+metadata:
+  title: 數學鑰
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:11:11.676248'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3f0050/KR3f0050_000.txt
+hash: sha256:866e03d32309377b06c1c63028f5b6e4031c2f5b8f0296b00444438b18a26e60
